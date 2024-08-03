@@ -8,6 +8,6 @@
 
 想直接要.pdf版的也可以到<https://ryan-gwo.github.io/resources/>上拿.
 
-
+本开源项目地址: <https://github.com/ryan-gwo/Astronomy-Olympiads-Editable>
 
 gyz.
